@@ -1,4 +1,4 @@
-![Krypton Screenshot](https://media.cssninja.io/products/krypton/product.png "Krypton")
+<!-- ![Krypton Screenshot](https://media.cssninja.io/products/krypton/product.png "Krypton")
 
 # 👋 Krypton
 
@@ -53,4 +53,4 @@ Find more premium website and app templates on [Css Ninja](https://cssninja.io/)
 
 ## 🚀 About Us
 
-Css Ninja is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project.
+Css Ninja is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project. -->
